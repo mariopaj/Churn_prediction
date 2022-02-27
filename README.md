@@ -10,5 +10,5 @@ En este ejercicio vamos a predecir con la mayor precisión posible el churn de u
 
 ## Carpetas
 
-- Notbooks: 2 Jupyter nootbook en donde está el código para la pedicción del Churn
+- Notbooks: 2 Jupyter notebook en donde está el código para la pedicción del Churn
 - Prediction: CSV con la predicción del Churn
